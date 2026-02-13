@@ -116,4 +116,4 @@ The model is evaluated on a validation set using both binary and multi-class met
 
    | Binary Classification | Three Classes Classification |
     |------------------------|-------------------------------|
-    | Accuracy: 0.856        | Kappa score: 0.723            |
+    | Accuracy: 0.856        | Kappa score: 0.773            |
